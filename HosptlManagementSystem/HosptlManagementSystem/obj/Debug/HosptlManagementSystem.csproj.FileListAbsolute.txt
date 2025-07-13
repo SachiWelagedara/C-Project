@@ -1,0 +1,11 @@
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\bin\Debug\HosptlManagementSystem.exe.config
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\bin\Debug\HosptlManagementSystem.exe
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\bin\Debug\HosptlManagementSystem.pdb
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\obj\Debug\HosptlManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\obj\Debug\HosptlManagementSystem.Form1.resources
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\obj\Debug\HosptlManagementSystem.Properties.Resources.resources
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\obj\Debug\HosptlManagementSystem.csproj.GenerateResource.cache
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\obj\Debug\HosptlManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\obj\Debug\HosptlManagementSystem.exe
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\obj\Debug\HosptlManagementSystem.pdb
+C:\Users\Sachini Welagedara\source\repos\HosptlManagementSystem\HosptlManagementSystem\obj\Debug\HosptlManagementSystem.Dashboard.resources
